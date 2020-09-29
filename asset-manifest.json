@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_qr_code_generator_scanner/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react_qr_code_generator_scanner/static/js/main.d02467d1.chunk.js",
+    "main.js.map": "/react_qr_code_generator_scanner/static/js/main.d02467d1.chunk.js.map",
+    "runtime-main.js": "/react_qr_code_generator_scanner/static/js/runtime-main.af80d25b.js",
+    "runtime-main.js.map": "/react_qr_code_generator_scanner/static/js/runtime-main.af80d25b.js.map",
+    "static/js/2.fb3e56e4.chunk.js": "/react_qr_code_generator_scanner/static/js/2.fb3e56e4.chunk.js",
+    "static/js/2.fb3e56e4.chunk.js.map": "/react_qr_code_generator_scanner/static/js/2.fb3e56e4.chunk.js.map",
+    "index.html": "/react_qr_code_generator_scanner/index.html",
+    "precache-manifest.57c265ed31624e4573c98d359ff8815d.js": "/react_qr_code_generator_scanner/precache-manifest.57c265ed31624e4573c98d359ff8815d.js",
+    "service-worker.js": "/react_qr_code_generator_scanner/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react_qr_code_generator_scanner/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fb3e56e4.chunk.js.LICENSE.txt": "/react_qr_code_generator_scanner/static/js/2.fb3e56e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af80d25b.js",
+    "static/js/2.fb3e56e4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d02467d1.chunk.js"
+  ]
+}
